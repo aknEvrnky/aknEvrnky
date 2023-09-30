@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aknEvrnky
 - 👀 I’m interested in Web Development. I'm using Laravel framework with Vue.
 - 🎓 I'm studying at Bahcesehir University in Computer Engineering department.
-- 🌱 I’m currently learning Single page applications with Vue.js. Also learning data structures in C++.
+- 🌱 I’m currently learning GoLang through clean architecture.
 - 💞️ I’m looking to collaborate on open source projects about Laravel ecosystem.
 - 📫 You can contact me with email 📬 [info@akinevrenkaya.com](mailto:info@akinevrenkaya.com)
 
