@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aknEvrnky
-- 👀 I’m interested in backend development. I'm developing fullstack web applications with Laravel, NodeJS, TypeScript, GoLang, Vue and python.
+- 👀 I’m interested in backend development. I'm developing fullstack web applications with Laravel, NodeJS, TypeScript, GoLang, Vue and Python.
 - 🎓 I graduated from Bahcesehir University in Computer Engineering department.
 - 🌱 I love coding with GoLang 🐿️
-- 💞️ I’m looking to collaborate on open source projects about Laravel ecosystem.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can contact me with email 📬 [info@akinevrenkaya.com](mailto:info@akinevrenkaya.com)
 
 <!---
