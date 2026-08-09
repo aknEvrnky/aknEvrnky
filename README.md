@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @aknEvrnky
-- 👀 I’m interested in backend development. I'm developing fullstack web applications with Laravel, NodeJS, TypeScript, GoLang, Vue and Python.
-- 🎓 I graduated from Bahcesehir University in Computer Engineering department.
-- 🌱 I love coding with GoLang 🐿️
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 You can contact me with email 📬 [info@akinevrenkaya.com](mailto:info@akinevrenkaya.com)
+### Hi, I'm Akın 👋
 
-<!---
-aknEvrnky/aknEvrnky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Backend engineer focused on distributed systems and event-driven architectures
+- 🐿️ I love working with **Go** - hexagonal architecture, gRPC, CDC pipelines, message-driven systems
+- 📊 Into observability - Prometheus, Grafana, Jaeger, OpenTelemetry
+- 🌱 Building [pgway](https://github.com/aknEvrnky/pgway), an open-source forward proxy gateway written in Go
+- 🎨 Also strong on the frontend - Nuxt SPAs, state management, atomic design architecture, TypeScript
+- 🛠️ I've also developed with Laravel (PHP), Node.js, and Python
+- 💞️ Open to collaborating on open-source projects
